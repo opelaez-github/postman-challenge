@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "6eb48ac6-c64e-471c-a2db-f84cde241999",
+		"_postman_id": "1x1x1x1x1x1x1x1x1x1x1",
 		"name": "Day 02: Version control",
 		"description": "## Instructions for Day 2: Version control\n\n1.  **Get the challenge:** Fork the parent collection to your own public workspace.\n2.  **Read the documentation:** Select the first folder. Expand the context bar on the right to follow the instructions in the collection documentation.\n3.  **Submit your solution:** Select the second folder and follow the instructions in the documentation to validate your solution.\n\n## Learning objectives\n- Configure request headers\n- Explain version control in Postman\n- Fork and merge changes into a collection\n- Use environment variables to store data\n\n## Concepts covered\n\n- [Fork a collection](https://learning.postman.com/docs/collaborating-in-postman/version-control-for-collections/#forking-a-collection)\n- [Send body data](https://learning.postman.com/docs/sending-requests/requests/#sending-body-data)\n- [Use environments](https://learning.postman.com/docs/sending-requests/managing-environments/#creating-environments)\n- [Configure request headers](https://learning.postman.com/docs/sending-requests/requests/#configuring-request-headers)\n    \n\n## Additional resources\n\n*   [Version Control for Collections](https://youtu.be/QKxukXJWRPI) video\n*   [How to use Postman environments](https://youtu.be/oCEDjp3XMco) video",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
@@ -105,7 +105,7 @@
 							"apikey": [
 								{
 									"key": "value",
-									"value": "PMAK-6526aec0ad0bd8003f15b9fa-ea0cf6f2fb19d12880e6b50c77a7b6e26e",
+									"value": "xoxoxoxoxoxoxox",
 									"type": "string"
 								},
 								{
