@@ -15,8 +15,8 @@
 - Fork and merge changes into a collection
 - Use environment variables to store data
 
-  ### Day 03: Debugging
-  - Inspect default console data
-  - Log data to the console
-  - Write a script
+### Day 03: Debugging
+- Inspect default console data
+- Log data to the console
+- Write a script
   
