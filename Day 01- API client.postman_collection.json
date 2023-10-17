@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "40374860-18b1-41ed-8606-d5be82c7f384",
+		"_postman_id": "xoxoxoxox",
 		"name": "Day 01: API client",
 		"description": "## Instructions for Day 1: API client\n\n1. **Get the challenge:** Fork the parent collection to your own public workspace.\n2. **Read the documentation:** In your fork, select the first folder `API client`. Expand the context bar on the right to follow the instructions in the collection documentation. If you find it bothersome to navigate between the documentation while working in a different area of Postman, remember that you can open a new tab to keep your place in the documentation, and then switch between tabs.\n3. **Submit your solution:** Select the second folder `Submit your solution` and follow the instructions in the documentation to validate your solution.\n    \n\n## Learning Objectives\n\n- Import data into Postman\n- Send and retrieve data from an API\n- Inspect API requests and responses\n- Use collection variables to store data\n    \n\n## Concepts covered\n\n- [Fork a collection](https://learning.postman.com/docs/collaborating-in-postman/version-control-for-collections/#forking-a-collection)\n- [View documentation](https://learning.postman.com/docs/publishing-your-api/viewing-documentation/)\n- [Send a request](https://learning.postman.com/docs/sending-requests/requests/)\n- [Use variables](https://learning.postman.com/docs/sending-requests/variables/)\n    \n\n## Additional resources\n\n- [Navigating the Postman app interface](https://youtu.be/Kr8OVXjzw4k) video\n- [Intro to APIs](https://youtu.be/iFMLyMgCUTs) video series\n- [Postman API](https://learning.postman.com/docs/developer/intro-api/) docs\n- [Initial vs Current Values for Variables](https://youtu.be/I6vClap0ajU) video",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
@@ -249,7 +249,7 @@
 		},
 		{
 			"key": "collection_uid",
-			"value": "21992176-40374860-18b1-41ed-8606-d5be82c7f384"
+			"value": "21992176-xoxoxoxox"
 		}
 	]
 }
