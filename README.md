@@ -19,4 +19,13 @@
 - Inspect default console data
 - Log data to the console
 - Write a script
+
+### Day 04: Authorization
+- Authorize API requests by using API key
+- Use an authorization helper
+- Explain inheritance regarding auth type
+- Authorize API requests by using cookies
+
+  
+
   
